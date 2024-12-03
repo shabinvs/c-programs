@@ -1,8 +1,6 @@
 
 #include <stdio.h>
 
-void swap(int*, int*);
-
 int main()
 {
     int num1, num2, *p1, *p2, temp;
